@@ -1,0 +1,25 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build output directory
+/out/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files (Eclipse, IntelliJ, VSCode)
+*.iml
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore MySQL dump files if created
+*.sql
+
