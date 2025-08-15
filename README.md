@@ -105,7 +105,7 @@ java -cp "out;lib\mysql-connector-j-9.4.0.jar" Main
 
 
 🖥️ Example Usage<br>
-===== School Management Menu =====<br1>
+===== School Management Menu =====<br>
 Enter your choice: 1<br>
 Enter student name: Alice<br>
 Enter roll number: 101<br>
