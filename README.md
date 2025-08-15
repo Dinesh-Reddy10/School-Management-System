@@ -104,19 +104,19 @@ java -cp "out;lib\mysql-connector-j-9.4.0.jar" Main
 8. Add Marks
 
 
-🖥️ Example Usage
-===== School Management Menu =====
-Enter your choice: 1
-Enter student name: Alice
-Enter roll number: 101
-Enter class name: Class 5
-✅ Student added successfully!
-
-Enter your choice: 8
-Enter roll number: 101
-Enter subject: Math
-Enter marks: 95
-✅ Marks added successfully!
+🖥️ Example Usage<br>
+===== School Management Menu =====<br1>
+Enter your choice: 1<br>
+Enter student name: Alice<br>
+Enter roll number: 101<br>
+Enter class name: Class 5<br>
+✅ Student added successfully!<br>
+<br>
+Enter your choice: 8<br>
+Enter roll number: 101<br>
+Enter subject: Math<br>
+Enter marks: 95<br>
+✅ Marks added successfully!<br>
 
 📜 License
 
