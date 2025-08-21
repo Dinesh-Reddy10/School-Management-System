@@ -104,7 +104,7 @@ java -cp "out;lib\mysql-connector-j-9.4.0.jar" Main
 8. Add Marks
 
 
-🖥️ Example Usage<br>
+🖥️ Example Usage and output screenshot<br>
 ===== School Management Menu =====<br>
 Enter your choice: 1<br>
 Enter student name: Alice<br>
@@ -117,6 +117,10 @@ Enter roll number: 101<br>
 Enter subject: Math<br>
 Enter marks: 95<br>
 ✅ Marks added successfully!<br>
+
+<img width="1499" height="711" alt="image" src="https://github.com/user-attachments/assets/44146d0f-7b2e-433e-8fbb-153e3584bff3" />
+
+<img width="1587" height="888" alt="image" src="https://github.com/user-attachments/assets/d997605e-6b6e-4fc1-8a30-2d486a994b89" />
 
 📜 License
 
