@@ -25,16 +25,16 @@ This project allows you to manage students, attendance, marks, and fees from a c
 ---
 
 ## 📂 Project Structure
-src/
-Main.java
-SchoolManagementSystem.java
-DatabaseConnection.java
-ClassRoom.java
-Student.java
-GradeCalculator.java
-ReportCardGenerator.java
-FeeCalculator.java
-AttendanceManager.java
+src/<br>
+    - Main.java<br>
+    - SchoolManagementSystem.java<br>
+    - DatabaseConnection.java<br>
+    - ClassRoom.java<br>
+    - Student.java<br>
+    - GradeCalculator.java<br>
+    - ReportCardGenerator.java<br>
+    - FeeCalculator.java<br>
+    - AttendanceManager.java<br>
 
 
 
